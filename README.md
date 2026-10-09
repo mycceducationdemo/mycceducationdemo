@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img width="1792" height="2400" alt="myccstudent" src="https://github.com/user-attachments/assets/0e70e38d-7bf4-4d00-ba9a-e9c204c9254d" />
+<img width="448" height="600" alt="myccstudentsmall" src="https://github.com/user-attachments/assets/ba6c5ebf-4265-45a9-945b-35bbfd5a2f79" />
+
 
 
 # Hi there, I'm MyCC Education
